@@ -176,6 +176,7 @@
     "advanced/branches/split-from.md",
     "advanced/branches/branch-does-not-checkout.md",
     "advanced/branches/git-checkout.md",
+    "advanced/branches/ref.md",
     "advanced/branches/change.md",
     "advanced/branches/sbs-branch.md",
     {
@@ -259,6 +260,14 @@
             "id": "remote"
         }
     },
+    "github/remote/git-remote-add.md",
+    "github/remote/git-fetch.md",
+    "github/remote/git-push-set-upstream.md",
+    "github/remote/git-push.md",
+    "github/remote/sbs-push.md",
+    "github/remote/git-clone.md",
+    "github/remote/git-pull.md",
+    "github/remote/git-rebase.md",
     {
         "filename": "github/collab/index.md",
         "attr": {
