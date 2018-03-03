@@ -275,6 +275,14 @@
             "id": "github-collaborating"
         }
     },
+    "github/collab/issue-pr.md",
+    "github/collab/issue.md",
+    "github/collab/sbs-issue.md",
+    "github/collab/pr.md",
+    "github/collab/pr-example.md",
+    "github/collab/pr-prerec.md",
+    "github/collab/pr-new.md",
+    "github/collab/sbs-pr.md",
     "questions.md",
     "feedback.md"
 ]
